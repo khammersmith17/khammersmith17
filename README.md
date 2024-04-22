@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khammersmith17
-- 👀 I’m interested in working with data to solve problems
-- 🌱 I’m currently learning data science in a graduate program
-- 💞️ I’m looking to collaborate on data science/engineering projects
+- 👀 I’m interested in working with data to solve problems and writing software around ML and AI models.
+- 🌱 I’m currently working as a software engineer on an AI/ML platform team
+- 💞️ I’m looking to collaborate on general software projects and ML related software projects
 - 📫 How to reach me kilianhammersmith@gmail.com
 
 <!---
