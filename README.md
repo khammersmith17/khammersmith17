@@ -2,6 +2,7 @@
 - 👀 I’m interested in working with data to solve problems and writing software around ML and AI models.
 - 🌱 I’m currently working as a software engineer on an AI/ML platform team
 - 💞️ I’m looking to collaborate on general software projects and ML related software projects
+- Mostly Python at work, mostly Rust in my free time
 - 📫 How to reach me kilianhammersmith@gmail.com
 
 <!---
