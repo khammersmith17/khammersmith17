@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Kilian Hammersmith.<br>I am a software engineer. Professionally, I work on an MLOps team. Personally I am working on an exciting private project using ML and real time data analysis written in Rust.<br>I love learning new things and always am trying to develop.<br>I'd love to collaborate anything backend.<br>Check out my pinned repo, fair-perf-ml, a lightweight ML oberservability Python library written in Rust, and dash_cache, a performant LRU cache implementation built for concurrency.
+Hi, my name is Kilian Hammersmith.<br>I am a software engineer. Professionally, I work on an MLOps team. Personally I am working on an exciting private project using ML and real time data analysis written in Rust.<br>I love learning new things and always am trying to develop.<br>I'd love to collaborate anything backend.<br>Check out my pinned repo, fair-perf-ml, a lightweight ML oberservability Python library written in Rust, and dash-cache, a performant LRU cache implementation built for concurrency.
 
 
 ## 🌐 Socials:
