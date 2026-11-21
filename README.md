@@ -6,7 +6,7 @@ Hi, my name is Kilian Hammersmith.<br>I am a software engineer. Professionally, 
 An ML Observability Package designed for online, real time, ML observability. Python library written in Rust.
 ### [dash-cache](https://github.com/khammersmith17/dash-cache)
 A performant concurrent LRU cache written in Rust.
-###[batchinf](https://github.com/khammersmith17/batchinf)
+### [batchinf](https://github.com/khammersmith17/batchinf)
 An model framework agnostic dynamic batching harness written in Rust.
 
 
